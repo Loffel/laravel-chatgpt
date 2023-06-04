@@ -1,5 +1,5 @@
 {
-    "name": "nwilging/laravel-chatgpt",
+    "name": "loffel/laravel-chatgpt",
     "description": "Super simple wrapper for openai-php/client with error handling. Specifically for ChatGPT conversations.",
     "type": "library",
     "license": "MIT",
