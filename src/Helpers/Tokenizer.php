@@ -25,6 +25,8 @@ class Tokenizer
          */
         'gpt-3.5-turbo' => 4096,
         'gpt-3.5-turbo-0301' => 4096,
+        'gpt-3.5-turbo-16k' => 16384,
+        'gpt-3.5-turbo-16k-0613' => 16384,
         'text-davinci-003' => 4097,
         'text-davinci-002' => 4097,
         'code-davinci-002' => 8001,
